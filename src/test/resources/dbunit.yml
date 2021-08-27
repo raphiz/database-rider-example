@@ -1,3 +1,5 @@
+mergeDataSets: true
+mergingStrategy: CLASS
 properties:
   qualifiedTableNames: true
   caseSensitiveTableNames: true

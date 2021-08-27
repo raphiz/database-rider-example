@@ -21,6 +21,7 @@ import org.testcontainers.containers.PostgreSQLContainer
 @TestMethodOrder(
     MethodOrderer.OrderAnnotation::class
 )
+@DataSet(cleanAfter = true)
 class DemoApplicationTests {
 
     @Autowired
