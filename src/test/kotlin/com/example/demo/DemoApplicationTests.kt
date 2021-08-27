@@ -2,7 +2,7 @@ package com.example.demo
 
 import com.github.database.rider.core.api.dataset.DataSet
 import com.github.database.rider.core.api.exporter.ExportDataSet
-import com.github.database.rider.spring.api.DBRider
+import com.github.database.rider.junit5.api.DBRider
 import org.hamcrest.MatcherAssert.assertThat
 import org.hamcrest.Matchers.`is`
 import org.jooq.DSLContext
