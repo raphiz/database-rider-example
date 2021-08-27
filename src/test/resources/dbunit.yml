@@ -1,0 +1,3 @@
+properties:
+  qualifiedTableNames: true
+  caseSensitiveTableNames: true

@@ -1,0 +1,4 @@
+spring:
+  datasource:
+    hikari:
+      auto-commit: false
